@@ -1,7 +1,5 @@
 # 👋 Hi, I'm **Lakshya Agrawal**  
 
-**🚀 AI Enthusiast | Machine Learning Developer | Software Engineer**  
-
 I'm a Computer Science and AI undergraduate at **IIIT Delhi** with a passion for **Machine Learning**, **Generative AI**, **Data Science**, and **Full-Stack Development**.
 
 ---
@@ -33,10 +31,12 @@ I'm a Computer Science and AI undergraduate at **IIIT Delhi** with a passion for
 
 
 #### AI/ML
+![HuggingFace](https://img.shields.io/badge/Hugging%20Face-%23FF6F00.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 
 #### Designing
