@@ -18,12 +18,6 @@ I'm a Computer Science and AI undergraduate at **IIIT Delhi** with a passion for
 **🗄️ Databases:**  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  ![MySQL](https://img.shields.io/badge/-MySQL-00000F?logo=mysql&logoColor=white)  ![Postgres](https://img.shields.io/badge/-Postgres-336791?logo=postgresql&logoColor=white)  ![Neo4J](https://img.shields.io/badge/-Neo4J-008CC1?logo=neo4j&logoColor=white)  
 
-**🔄 CI/CD:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)  
-
-**☁️ Cloud and Hosting:**  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)  
-
 **🤖 AI/ML Frameworks:**  
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=python&logoColor=white)  ![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)  ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)  ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)  ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)  
 
@@ -36,8 +30,6 @@ I'm a Computer Science and AI undergraduate at **IIIT Delhi** with a passion for
 
 ## 🌐 **Let's Connect**
 
-- **📧 Email:** [lakshya21535@iiitd.ac.in](mailto:lakshya21535@iiitd.ac.in)  
 - **💼 LinkedIn:** [lakshya-agrawal](https://www.linkedin.com/in/lakshya-agrawal-260257244/)  
-- **👨‍💻 GitHub:** [lakshya535](https://github.com/lakshya535)  
 
 ---
