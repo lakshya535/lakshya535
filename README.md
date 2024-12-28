@@ -6,12 +6,30 @@ I'm a Computer Science and AI undergraduate at **IIIT Delhi** with a passion for
 
 ---
 
-## 🛠️ **Skills & Technologies**
+Tech Stack
+Programming Languages
+C C++ Java Python
 
-- **Programming Languages:** Python, C++, Java, C  
-- **ML/AI Frameworks:** TensorFlow, PyTorch, Scikit-learn, OpenCV  
-- **Databases:** MySQL, MongoDB, Vector Databases  
-- **Tools & Platforms:** LangChain, Hugging Face, Flask, Git, OpenGL, IntelliJ, Linux  
+Web Technologies
+HTML5
+
+Databases
+MongoDB MySQL Postgres Neo4J
+
+CI/CD
+Git GitHub
+
+Cloud And Hosting
+AWS
+
+AI/ML
+Flask Matplotlib NumPy Pandas TensorFlow Keras
+
+Designing
+Figma Canva
+
+Servers and Query languages
+GraphQL
 
 
 ## 🚀 **Projects**
