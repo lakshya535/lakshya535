@@ -51,7 +51,7 @@ I'm a Computer Science and AI undergraduate at **IIIT Delhi** with a passion for
 
 
 ## GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=OjasKetkar&theme=dracula&hide_border=true&border_radius=7&card_width=800)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lakshya535&theme=dracula&hide_border=true&border_radius=7&card_width=800)](https://git.io/streak-stats)
 
 <br>
 
