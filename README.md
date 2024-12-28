@@ -13,26 +13,6 @@ I'm a Computer Science and AI undergraduate at **IIIT Delhi** with a passion for
 - **Databases:** MySQL, MongoDB, Vector Databases  
 - **Tools & Platforms:** LangChain, Hugging Face, Flask, Git, OpenGL, IntelliJ, Linux  
 
----
-
-## 📚 **Education**
-
-- **B.Tech in Computer Science and AI** — *IIIT Delhi* (2021–2025)  
-  - CGPA: **8.64** (Till 6th semester)  
-
----
-
-## 💼 **Work Experience**
-
-### **AI/ML Intern @ Wissen Technology**  
-- Developed a **Retrieval-Augmented Generation (RAG)** system for ESG data extraction.  
-- Evaluated models like **LLAMA 3** and used **BGE embeddings** with vector databases.
-
-### **Undergraduate Researcher @ Complex Systems Lab, IIIT Delhi**  
-- Created models predicting food processing levels with **94.7% accuracy** using **XGBoost**.  
-- Applied **SHAP analysis** for critical feature evaluation.
-
----
 
 ## 🚀 **Projects**
 
@@ -42,15 +22,6 @@ I'm a Computer Science and AI undergraduate at **IIIT Delhi** with a passion for
 - 🛒 [**Online Retail Store**](https://github.com/lakshya535/OnlineRetailStore) — Full-stack retail store with MySQL and Flask.  
 - 🎨 [**Solid Texture Synthesis**](https://github.com/lakshya535/Solid_Texture_Synthesis) — Implemented rendering pipelines using OpenGL and C++.
 
----
-
-## 🏆 **Achievements**
-
-- **NTSE Scholar** (National Talent Search Examination)  
-- **Top 1 percentile in JEE Mains 2021**  
-- **JSTSE Scholar**  
-
----
 
 ## 🌐 **Let's Connect**
 
