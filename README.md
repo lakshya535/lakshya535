@@ -60,6 +60,6 @@ I'm a Computer Science and AI undergraduate at **IIIT Delhi** with a passion for
 
 ## 🌐 **Let's Connect**
 
-- **💼 LinkedIn:** [lakshya-agrawal](https://www.linkedin.com/in/lakshya-agrawal-260257244/)  
+- **💼 LinkedIn:** [lakshya-agrawal](https://www.linkedin.com/in/lakshya-a-260257244/)  
 
 ---
